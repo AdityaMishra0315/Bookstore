@@ -23,7 +23,4 @@ To run the BookTown Project locally, follow these steps:
 - Open the index.html file in Home-Page folder in your preferred browser
 - Enjoy browsing and purchasing books!
 
-## Contributing
-We welcome contributions from anyone interested in improving the BookTown! To contribute, please fork the repository and submit a pull request with your changes.
 
-`This project is developed for educational purposes and is free to use and modify.`
